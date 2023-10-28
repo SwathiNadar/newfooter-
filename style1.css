@@ -91,7 +91,12 @@ color:white;
     color: white;
     margin-top: 20px;
 }
-
+a{
+  color:white;
+  }
+a:hover{
+   color:purple;
+       }
 @media only screen and (max-width:767px){
     .heading{
         text-align: right;
